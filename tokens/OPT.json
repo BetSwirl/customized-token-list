@@ -46,5 +46,85 @@
     "decimals": 18,
     "chainId": 10,
     "logoURI": "https://www.geckoterminal.com/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F28225%2Fsmall%2Flogo_OPX.png%3F1668501930&w=64&q=75"
+  },
+  {
+    "address": "0x296f55f8fb28e498b858d0bcda06d955b2cb3f97",
+    "chainId": 10,
+    "symbol": "STG",
+    "decimals": 18,
+    "name": "StargateToken",
+    "logoURI": "https: //static.debank.com/image/op_token/logo_url/0x296f55f8fb28e498b858d0bcda06d955b2cb3f97/3e78cc5b8a3f077a619a7ce556b41b25.png"
+  },
+  {
+    "address": "0x9485aca5bbBE1667AD97c7fE7C4531a624C8b1ED",
+    "chainId": 10,
+    "symbol": "EURA",
+    "decimals": 18,
+    "name": "EURA (previously agEUR)",
+    "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EURA.svg"
+  },
+  {
+    "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
+    "chainId": 10,
+    "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stEUR.svg",
+    "decimals": 18,
+    "name": "Staked EURA",
+    "symbol": "stEUR"
+  },
+  {
+    "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
+    "chainId": 10,
+    "symbol": "USDA",
+    "decimals": 18,
+    "name": "USDA",
+    "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDA.svg"
+  },
+  {
+    "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
+    "chainId": 10,
+    "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stUSD.svg",
+    "decimals": 18,
+    "name": "Staked USDA",
+    "symbol": "stUSD"
+  },
+  {
+    "address": "0x58441E37255b09F9f545e9Dc957F1C41658ff665",
+    "chainId": 10,
+    "symbol": "ANGLE",
+    "decimals": 18,
+    "name": "ANGLE_optimism",
+    "logoURI": "https://static.debank.com/image/project/logo_url/op_angle/306ffce483295499c5b62e264148d468.png"
+  },
+  {
+    "address": "0x060cb087a9730e13aa191f31a6d86bff8dfcdcc0",
+    "chainId": 10,
+    "symbol": "OHM",
+    "decimals": 9,
+    "name": "Olympus",
+    "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5/0ad387f86fba0c16654cfb0f720df5d6.png"
+  },
+  {
+    "address": "0x346e03F8Cce9fE01dCB3d0Da3e9D00dC2c0E08f0",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33033/small/weETH.png",
+    "name": "Wrapped eETH",
+    "symbol": "weETH"
+  },
+  {
+    "address": "0x33800De7E817A70A694F31476313A7c572BBa100",
+    "chainId": 10,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/52889/small/Token_Logo.png?1734601695",
+    "decimals": 18,
+    "name": "Derive",
+    "symbol": "DRV"
+  },
+  {
+    "address": "0x7ff7fa94b8b66ef313f7970d4eebd2cb3103a2c0",
+    "chainId": 10,
+    "symbol": "VANA",
+    "decimals": 18,
+    "name": "VANA",
+    "logoURI": "https://assets.coingecko.com/coins/images/51404/small/logo.png?1731086679"
   }
 ]

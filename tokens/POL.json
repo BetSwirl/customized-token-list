@@ -1,5 +1,77 @@
 [
   {
+    "name": "Backed CSPX S&P 500",
+    "address": "0x1e2C4fb7eDE391d116E6B41cD0608260e8801D59",
+    "symbol": "bCSPX",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/31891/standard/bCSPX_200p.png?1740041074"
+  },
+  {
+    "name": "Backed Coinbase",
+    "address": "0xbbcb0356bB9e6B3Faa5CbF9E5F36185d53403Ac9",
+    "symbol": "bCOIN",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/54429/standard/bCOIN_200p.png?1740041341"
+  },
+  {
+    "name": "Wrapped Backed Coinbase",
+    "address": "0xDEc933e2392AD908263e70A386fbF34e703Ffe8F",
+    "symbol": "wbCOIN",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/54429/standard/bCOIN_200p.png?1740041341"
+  },
+  {
+    "name": "Backed Tesla",
+    "address": "0x14A5f2872396802C3Cc8942A39Ab3E4118EE5038",
+    "symbol": "bTSLA",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/54428/standard/bTSLA_200p.png?1740041458"
+  },
+  {
+    "name": "Wrapped Backed Tesla",
+    "address": "0x1f82284C1658Ad71C576f7230E6C2DEE7901c1FA",
+    "symbol": "wbTSLA",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/54428/standard/bTSLA_200p.png?1740041458"
+  },
+  {
+    "name": "Backed NVIDIA",
+    "address": "0xA34C5e0AbE843E10461E2C9586Ea03E55Dbcc495",
+    "symbol": "bNVDA",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/38911/standard/bNVDA_200p.png?1740041447"
+  },
+  {
+    "name": "Wrapped Backed NVIDIA",
+    "address": "0x7E8101A1C322D394b3961498c7D40d2DFA94C392",
+    "symbol": "wbNVDA",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/38911/standard/bNVDA_200p.png?1740041447"
+  },
+  {
+    "name": "Backed Strategy",
+    "address": "0xaC28C9178ACc8BA4A11A29E013a3A2627086e422",
+    "symbol": "bMSTR",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/38914/standard/bMSTR_200p.png?1740041420"
+  },
+  {
+    "name": "Wrapped Backed Strategy",
+    "address": "0x1a4F71B0Ff3C22540887bcf83b50054a213c673d",
+    "symbol": "wbMSTR",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/38914/standard/bMSTR_200p.png?1740041420"
+  },
+  {
     "name": "Minerva Wallet SuperToken",
     "address": "0xc0b2983a17573660053beeed6fdb1053107cf387",
     "symbol": "MIVA",
@@ -23,7 +95,7 @@
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/17638/small/Ue3Hfh8.png?1630737936"
   },
-    {
+  {
     "name": "PlanetIX",
     "address": "0xe06bd4f5aac8d0aa337d13ec88db6defc6eaeefe",
     "symbol": "IXT",
@@ -31,7 +103,7 @@
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/20927/small/IXT_SYMBOL_SVG_RGB_BLACK.png?1637934555"
   },
-    {
+  {
     "name": "miMATIC",
     "address": "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1",
     "symbol": "miMATIC",
@@ -39,7 +111,7 @@
     "chainId": 137,
     "logoURI": "https://polygonscan.com/token/images/miMatic_32.png"
   },
-    {
+  {
     "name": "Cougar Token",
     "address": "0x047fD3B3D2366F9babe105ade4598E263d6c699c",
     "symbol": "CGS",
@@ -110,5 +182,101 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://etherscan.io/token/images/betswirl_32.png"
+  },
+  {
+    "address": "0xc708d6f2153933daa50b2d0758955be0a93a8fec",
+    "symbol": "VERSE",
+    "decimals": 18,
+    "chainId": 137,
+    "name": "Verse",
+    "logoURI": "https://token-icons.s3.amazonaws.com/0x249ca82617ec3dfb2589c4c17ab7ec9765350a18.png"
+  },
+  {
+    "address": "0x84E0a246DD437d911989E89667816A9Ed97a1284",
+    "chainId": 137,
+    "symbol": "FOX",
+    "decimals": 18,
+    "name": "Magic Fox",
+    "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x84e0a246dd437d911989e89667816a9ed97a1284/73f774924d0d80ab0a0f7a1cb0fc09c8.png"
+  },
+  {
+    "address": "0xb092e1BF50f518b3Ebf7eD26A40015183aE36AC2",
+    "chainId": 137,
+    "symbol": "TAROT",
+    "decimals": 18,
+    "name": "Tarot",
+    "logoURI": "https://static.debank.com/image/project/logo_url/tarot/233920bfdf23b95af19a7224a0983b27.png"
+  },
+  {
+    "address": "0xE0B52e49357Fd4DAf2c15e02058DCE6BC0057db4",
+    "chainId": 137,
+    "symbol": "EURA",
+    "decimals": 18,
+    "name": "EURA (previously agEUR)",
+    "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EURA.svg"
+  },
+  {
+    "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stEUR.svg",
+    "decimals": 18,
+    "name": "Staked EURA",
+    "symbol": "stEUR"
+  },
+  {
+    "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
+    "chainId": 137,
+    "symbol": "USDA",
+    "decimals": 18,
+    "name": "USDA",
+    "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDA.svg"
+  },
+  {
+    "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stUSD.svg",
+    "decimals": 18,
+    "name": "Staked USDA",
+    "symbol": "stUSD"
+  },
+  {
+    "address": "0x644192291cc835A93d6330b24EA5f5FEdD0eEF9e",
+    "chainId": 137,
+    "symbol": "NXRA",
+    "decimals": 18,
+    "name": "AllianceBlock Nexera Token",
+    "logoURI": "https://assets.coingecko.com/coins/images/29181/small/nxra.png?1696528139"
+  },
+  {
+    "address": "0x3d2bD0e15829AA5C362a4144FdF4A1112fa29B5c",
+    "chainId": 137,
+    "symbol": "BONSAI",
+    "decimals": 18,
+    "name": "Bonsai Token",
+    "logoURI": "https://www.bonsai.meme/static/Bonsai_Token_256x256.jpg"
+  },
+  {
+    "name": "Fluid",
+    "address": "0xf50d05a1402d0adafa880d36050736f9f6ee7dee",
+    "symbol": "FLUID",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://etherscan.io/token/images/fluid_32.png"
+  },
+  {
+    "address": "0x7ff7fa94b8b66ef313f7970d4eebd2cb3103a2c0",
+    "chainId": 56,
+    "symbol": "VANA",
+    "decimals": 137,
+    "name": "VANA",
+    "logoURI": "https://assets.coingecko.com/coins/images/51404/small/logo.png?1731086679"
+  },
+  {
+    "address": "0x649a2DA7B28E0D54c13D5eFf95d3A660652742cC",
+    "chainId": 137,
+    "symbol": "IDRX",
+    "decimals": 0,
+    "name": "IDRX",
+    "logoURI": "https://assets.coingecko.com/coins/images/34883/standard/IDRX_BLUE_COIN_200x200.png?1734983273"
   }
 ]
